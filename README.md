@@ -39,8 +39,7 @@ This project demonstrates a complete data analytics workflow, from data acquisit
 
 ## Dashboard
 - **Key metrics visualized:** sales trends, purchase frequency, customer segmentation, retention rates  
-- **Interactive features:** slicers, filters, drill-throughs  
-- **Screenshot/Link (optional):** [Insert if applicable]  
+- **Interactive features:** slicers, filters, drill-throughs   
 
 ## Results
 - Extracted actionable insights on customer purchase behavior and engagement.  
